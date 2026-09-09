@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tushar Kumar
 =====================================================================================================================================
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tusharXO)
+![](https://komarev.com/ghpvc/?username=tusharXO&label=PROFILE+VIEWS)
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [iamtushar2004@gmail.com](mailto:iamtushar2004@gmail.com)
