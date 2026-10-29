@@ -45,10 +45,6 @@ REST APIs · Socket.IO · Authentication · PostgreSQL/pgvector
 | **[Realtime Collab](https://github.com/tusharXO/realtime-collab)** | A TypeScript project focused on real-time collaboration. | TypeScript |
 | **[Log Analytics](https://github.com/tusharXO/log-analytics)** | Full-stack log analytics project with separate frontend/backend services and a Docker setup. | JavaScript, Docker |
 
-### GitHub activity
-
-![Tushar's GitHub stats](https://github-stats-extended.vercel.app/api?username=tusharXO&show_icons=true&theme=transparent&hide_border=true)
-
 ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tusharXO&layout=compact&theme=transparent&hide_border=true)
 
 ---
